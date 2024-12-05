@@ -17,7 +17,7 @@ Proactive, results-oriented and always looking to learn and apply new technologi
 
 - 👯 I’m looking to collaborate on [Eccomerce](https://github.com/rsilvadevelloper/inovarurbanoindex)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rsilvadevelloper?tab=repositories]
+- 👨‍💻 All of my projects are available at https://github.com/rsilvadevelloper?tab=repositories
 
 - 📄 Know about my experiences [https://github.com/rsilvadevelloper](https://github.com/rsilvadevelloper)
 
