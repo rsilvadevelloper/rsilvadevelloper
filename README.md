@@ -24,7 +24,7 @@ Proactive, results-oriented and always looking to learn and apply new technologi
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/r-silva-developer-full-stack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r-silva-developer-full-stack/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rsilva.rn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rsilva.rn/" height="30" width="40" /> </p> <a href="https://api.whatsapp.com/send?phone=5521966529882&text=Ol%C3%A1%20vi%20seu%20perfil%20no%20github%20gostaria%20saber%20como%20funciona%20o%20seu%20trabalho%20possuo%20interesse!" target="_blank">
+<a href="https://instagram.com/https://www.instagram.com/rsilva.rn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rsilva.rn/" height="30" width="40" /> </p> <a href="https://api.whatsapp.com/send?phone=5521966529882&text=Ol%C3%A1%20vi%20seu%20perfil%20no%20github%20gostaria%20saber%20como%20funciona%20o%20seu%20trabalho%20possuo%20interesse!" target="_blank"> <p align="left">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 
