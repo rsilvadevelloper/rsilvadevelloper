@@ -90,6 +90,4 @@ experience in integrating SQL and NoSQL databases. Advanced skills in version co
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
