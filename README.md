@@ -1,8 +1,5 @@
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21859
-Fork on GitHub6959
+
 <h1 align="center">Olá eu sou Ronald da Silva ⚡</h1>
 <h3 align="center">Passionate web developer with proven experience in developing web applications at all stages of the 
 development lifecycle. Specialized in React for front-end and Node.js for back-end, with strong 
