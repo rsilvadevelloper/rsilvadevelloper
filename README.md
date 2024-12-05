@@ -68,7 +68,7 @@ experience in integrating SQL and NoSQL databases. Advanced skills in version co
 
 ###
 
-<h2 align="left"> Social Media </h2>
+<h2 align="left"> Social Network </h2>
 
 ###
 
