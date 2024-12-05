@@ -3,8 +3,7 @@
 <h1 align="center">Olá eu sou Ronald da Silva ⚡</h1>
 <h3 align="center">Passionate web developer with proven experience in developing web applications at all stages of the 
 development lifecycle. Specialized in React for front-end and Node.js for back-end, with strong 
-experience in integrating SQL and NoSQL databases. Advanced skills in version control with Git. 
-Proactive, results-oriented and always looking to learn and apply new technologies</h3>
+experience in integrating SQL and NoSQL databases. Advanced skills in version control with Git. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsilvadevelloper&label=Profile%20views&color=0e75b6&style=flat" alt="rsilvadevelloper" /> </p>
 
