@@ -38,13 +38,3 @@ Proactive, results-oriented and always looking to learn and apply new technologi
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsilvadevelloper&" alt="rsilvadevelloper" /></p>
 
-
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
