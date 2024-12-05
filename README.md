@@ -23,6 +23,8 @@ Proactive, results-oriented and always looking to learn and apply new technologi
 
 <h2 align="left"></h2>
 
+<h2 align="left"></h2>
+
 ###
 
 <div align="left">
@@ -74,10 +76,4 @@ Proactive, results-oriented and always looking to learn and apply new technologi
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsilvadevelloper&show_icons=true&locale=en&layout=compact" alt="rsilvadevelloper" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsilvadevelloper&show_icons=true&locale=en" alt="rsilvadevelloper" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsilvadevelloper&" alt="rsilvadevelloper" /></p>
-
+###
