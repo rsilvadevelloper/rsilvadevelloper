@@ -57,8 +57,7 @@ Proactive, results-oriented and always looking to learn and apply new technologi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsilvadevelloper&show_icons=true&locale=en&layout=compact" alt="rsilvadevelloper" /></p>
 
