@@ -70,10 +70,12 @@ Proactive, results-oriented and always looking to learn and apply new technologi
   <a href="https://www.instagram.com/rsilva.rn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5521966529882&text=Ol%C3%A1%20vi%20seu%20perfil%20no%20github%20gostaria%20saber%20como%20funciona%20o%20seu%20trabalho%20possuo%20interesse!" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5521966529882&text=Ol%C3%A1%20vi%20seu%20perfil%20no%20github%20gostaria%20saber%20como%20funciona%20o%20seu%20trabalho%20possuo%20interesse!" target="_blank"> 
+
+    [https://camo.githubusercontent.com/6b8813c26d59998afe785b7d2bbe79fd367c932077ddfb190d76601be7bbf842
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
-
+](https://camo.githubusercontent.com/6b8813c26d59998afe785b7d2bbe79fd367c932077ddfb190d76601be7bbf842/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7273696c7661646576656c6c6f7065722673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
 ###
