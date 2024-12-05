@@ -56,7 +56,7 @@ experience in integrating SQL and NoSQL databases. Advanced skills in version co
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"></h3>
 
 
 ###
